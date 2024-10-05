@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @ATOMFORK-DEV
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+⬜ Hi, I’m @ATOMFORK-DEV, ATOMFORK DEVELOPMENT, DUSTIN ANGELETTI
+🟧 I’m interested in ... JAVASCRIPT, ELECTRON, RUST, TAURI AND MORE
+🟦 I’m currently learning ... THE JAVASCRIPT AND RUST ECOSYSTEM
+🟪 How to reach me ... ATOMFORK-CONTACT@PROTON.ME
+🟩 Pronouns: ... HE/HIM OR SIR/KING
+🟨 Fun fact: ... IM 27, IM FROM IDAHO AND I LOVE CODING!
 
-<!---
-ATOMFORK-DEV/ATOMFORK-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- ⬜🟧🟦🟥🟫🟪🟩🟨 -->
